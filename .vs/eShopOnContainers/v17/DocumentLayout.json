@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22F59D7A-7FE1-4CB3-931E-CBBC1867190C}|src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\src\\services\\orderservice\\orderservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22F59D7A-7FE1-4CB3-931E-CBBC1867190C}|src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj|solutionrelative:src\\services\\orderservice\\orderservice.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7654156F-DE6E-4B69-845D-EBB70F5B5EAD}|src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\src\\services\\orderservice\\orderservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7654156F-DE6E-4B69-845D-EBB70F5B5EAD}|src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj|solutionrelative:src\\services\\orderservice\\orderservice.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A272AE1F-5DD4-46AD-80C8-BD417C5E02A8}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\src\\services\\orderservice\\orderservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A272AE1F-5DD4-46AD-80C8-BD417C5E02A8}|src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj|solutionrelative:src\\services\\orderservice\\orderservice.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6288BEE-D692-4E15-87A0-5C62AA93CBDB}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6288BEE-D692-4E15-87A0-5C62AA93CBDB}|src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj|solutionrelative:src\\services\\notificationservice\\notificationservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1835684-D337-4676-B148-CA6265EDFEA6}|Solution Items{A1835684-D337-4676-B148-CA6265EDFEA6}|C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\ServiceUrl.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A1835684-D337-4676-B148-CA6265EDFEA6}|Solution Items{A1835684-D337-4676-B148-CA6265EDFEA6}|solutionrelative:ServiceUrl.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:57:01.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:55:34.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
+              "RelativeToolTip": "src\\Services\\OrderService\\OrderService.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:53:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "RelativeToolTip": "src\\Services\\NotificationService\\NotificationService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T09:24:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceUrl.txt",
+              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\ServiceUrl.txt",
+              "RelativeDocumentMoniker": "ServiceUrl.txt",
+              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\ServiceUrl.txt",
+              "RelativeToolTip": "ServiceUrl.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-09T08:38:56.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
