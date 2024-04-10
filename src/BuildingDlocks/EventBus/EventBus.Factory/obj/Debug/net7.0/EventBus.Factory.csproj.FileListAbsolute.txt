@@ -1,0 +1,12 @@
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Factory.deps.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Factory.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Factory.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.AssemblyInfo.cs
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.sourcelink.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\refint\EventBus.Factory.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\ref\EventBus.Factory.dll

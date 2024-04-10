@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7Z4TVXbh0H+aCygsr6QONXlxeheTpw51XJ9Z8a+bxMgDNL1x4uxQbYPvan2eqK2ArLPNtvfDTZn7CmMAqXk4pQ==",
+  "dgSpecHash": "WdpBpxj0ExulTugwrAvjhxCQyh/+4+Hs8i5pskg+HEnjnQc6627AlR/WYa2f770Ql6WEYMBpIbH/0ynUOAgo6Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
   "expectedPackageFiles": [

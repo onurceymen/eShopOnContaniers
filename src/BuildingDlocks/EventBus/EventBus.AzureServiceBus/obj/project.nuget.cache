@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jEl59vNXIj9DjUNZo7IE4aMAQP/qqveaq3I3gTLONShMqJxn4IT2StSv20wPdZo7/Hl/Q+VXNFnf6UudjMX6pw==",
+  "dgSpecHash": "sZji7N8K9r63nHh3q2f0gon5xfQaPh7uz1LzxgNg+dTXxqWOAV1hsTJ9ASTEcV+KBicJ+4pw7QfY6Z+/czi5rA==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [],

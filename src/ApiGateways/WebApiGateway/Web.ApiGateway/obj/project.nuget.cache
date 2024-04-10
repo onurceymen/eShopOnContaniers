@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3oMAlVPSdlntutMhswUuUZ+dMH61KH7X9+HvPUojF1/UDb8idz2ea6g3VDt9lo5Ac+r73f//ZyE5ySc30H0ZTg==",
+  "dgSpecHash": "AkW6HwFmhAldf7s+5elOKIEOB8MeSpHyG7TTjw3J7f35kMswyNJfELwILuBOeuQ8Gp1yW62H77ZJjpD/3wAtVQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
   "expectedPackageFiles": [

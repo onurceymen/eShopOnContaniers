@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ieZOKV6CRWYAa/bai/jRf2HE4zppK3pqoWQCpkpL/fJudNSchNOxxm8rgYY07ALaOT5IYItuuozdC5k/qU6DDw==",
+  "dgSpecHash": "/Ez8NSXHJ/fu5bQd4BY/+sc2v8LgSJnaEIIAZxYOblHgTl+yq173DamziOSNP3cB3RIBSY8khdVttEtTJneXiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onurc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\onurc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

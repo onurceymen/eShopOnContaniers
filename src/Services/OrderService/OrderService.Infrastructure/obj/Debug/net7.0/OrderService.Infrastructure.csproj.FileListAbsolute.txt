@@ -1,0 +1,12 @@
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.deps.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net7.0\OrderService.Infrastructure.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.sourcelink.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\refint\OrderService.Infrastructure.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\OrderService.Infrastructure.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net7.0\ref\OrderService.Infrastructure.dll

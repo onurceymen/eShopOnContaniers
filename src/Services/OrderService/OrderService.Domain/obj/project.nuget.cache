@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iwZpBxUhDYjNNSeg7AVROvlS1iZHugXZsTtgQsYhAbW8qDyLvPvT4hdsLPxAibXWxMLvpEy/27DQa/Q5d9U6gw==",
+  "dgSpecHash": "4WyELmUagfxhCRxp9HWtNwRsr93zmOTirAq0mKT/C8FI9G83+TSY8+JEHSi7/WxN3DX7WHlFUmfirPsdAGcwIQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\OrderService\\OrderService.Domain\\OrderService.Domain.csproj",
   "expectedPackageFiles": [],

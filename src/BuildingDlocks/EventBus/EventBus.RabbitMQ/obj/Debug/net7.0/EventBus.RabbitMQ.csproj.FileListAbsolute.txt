@@ -1,0 +1,12 @@
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.RabbitMQ.deps.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.RabbitMQ.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net7.0\EventBus.RabbitMQ.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.sourcelink.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\refint\EventBus.RabbitMQ.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\EventBus.RabbitMQ.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net7.0\ref\EventBus.RabbitMQ.dll

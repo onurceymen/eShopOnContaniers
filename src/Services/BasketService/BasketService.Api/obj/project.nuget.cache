@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+o+VTc7UBNlSwXScQYzbsLFWBiRNgLq1RnUMVtq7r/4B7/9FW+jVhzZoOjsZHw5g31CeIZwtfDimZhffILMj6g==",
+  "dgSpecHash": "0x+kPN+hIhMm6t+TDpGs+xa8LjYnG6k3Oa9+HMGKd/FnsT+a6N6qoA+XCSufmg/eUB3w0PyT1NAvxz6SMFQq4w==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
   "expectedPackageFiles": [

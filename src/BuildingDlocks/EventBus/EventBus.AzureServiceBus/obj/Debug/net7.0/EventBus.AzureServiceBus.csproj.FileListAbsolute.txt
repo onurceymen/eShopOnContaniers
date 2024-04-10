@@ -1,0 +1,12 @@
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net7.0\EventBus.AzureServiceBus.deps.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net7.0\EventBus.AzureServiceBus.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net7.0\EventBus.AzureServiceBus.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.AssemblyInfo.cs
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.sourcelink.json
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\refint\EventBus.AzureServiceBus.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\ref\EventBus.AzureServiceBus.dll
