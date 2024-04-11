@@ -10,3 +10,11 @@ C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventB
 C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\refint\EventBus.Factory.dll
 C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.pdb
 C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\ref\EventBus.Factory.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.Factory.csproj.AssemblyReference.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.AzureServiceBus.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Base.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.RabbitMQ.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.AzureServiceBus.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.Base.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\bin\Debug\net7.0\EventBus.RabbitMQ.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.Factory\obj\Debug\net7.0\EventBus.DF3238A7.Up2Date

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+c4+JZeB18eGS1cxHrFAQtEF5+CEwdgayl3r5b7CN2qxJLY+nhzdnV6OWrB8+1mqNBkyqsZ1T9BMyGKlG6dvlg==",
+  "dgSpecHash": "7ICaB+0N/0x+O3B6b4MNJtKbst71E5ap41OjOcTjVhnr7wuPrGjp0Em5bCT1KElW2EVO8XejDmDyTzmr7Yycvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
@@ -30,11 +30,10 @@
     "C:\\Users\\onurc\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.15\\microsoft.jsinterop.webassembly.7.0.15.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
-    "C:\\Users\\onurc\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.3\\microsoft.net.sdk.webassembly.pack.8.0.3.nupkg.sha512",
+    "C:\\Users\\onurc\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.4\\microsoft.net.sdk.webassembly.pack.8.0.4.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
-    "C:\\Users\\onurc\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
-    "C:\\Users\\onurc\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\7.0.17\\microsoft.netcore.app.runtime.mono.browser-wasm.7.0.17.nupkg.sha512"
+    "C:\\Users\\onurc\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YqLjBQfEKUdW6Mf5S7mKF/nunCMBjC+2YXlR/HvxATOxnmtL3vLPYRUmbQIObnzMyicl3CvhH/LmZzXa9UGP4g==",
+  "dgSpecHash": "MslAeLTG0ALSL8KTKQdCvN/WlzRahtPQuLZLaByh2QK9MwiItSsyqQHyRMu1aMaokwDdPI3gPoc8R0vftd8LQQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\IdentityService\\IdentityService.Api\\IdentityService.Api.csproj",
   "expectedPackageFiles": [

@@ -10,3 +10,7 @@ C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventB
 C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\refint\EventBus.AzureServiceBus.dll
 C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.pdb
 C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\ref\EventBus.AzureServiceBus.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net7.0\EventBus.Base.dll
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net7.0\EventBus.Base.pdb
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.AzureServiceBus.csproj.AssemblyReference.cache
+C:\Users\onurc\source\repos\eShopOnContainers\src\BuildingDlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net7.0\EventBus.4B749085.Up2Date
