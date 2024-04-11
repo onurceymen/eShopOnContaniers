@@ -107,7 +107,7 @@ namespace E_ventBusTest
                 DefaultTopicName = "SellingBuddyTopicName",
                 EventBusType = EventBusType.AzureServiceBus,
                 EventNameSuffix = "IntegrationEvent",
-                EventBusConnectionString = "Endpoint = sb://eshoponcontainers.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=bJxNf6zIvtk3crrn1XHgAbJgLKN/XsGc2+ASbHH4m3Y="
+                //EventBusConnectionString = "Endpoint = sb://eshoponcontainers.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=bJxNf6zIvtk3crrn1XHgAbJgLKN/XsGc2+ASbHH4m3Y="
             };
         }
 

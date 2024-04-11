@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Test\\E ventBusTest\\EventBusTests.cs",
               "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\EventBusTests.cs",
               "RelativeToolTip": "Test\\E ventBusTest\\EventBusTests.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAewCEAAAAmAAAA",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAG0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T18:49:53.582Z",
               "EditorCaption": ""
@@ -51,21 +51,19 @@
               "RelativeToolTip": "Test\\E ventBusTest\\Events\\Events\\OrderCreatedIntegrationEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:52:48.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T18:52:48.022Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EventBusTest",
+              "Title": "EventBusTest.csproj",
               "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\EventBusTest.csproj",
               "RelativeDocumentMoniker": "Test\\E ventBusTest\\EventBusTest.csproj",
               "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\EventBusTest.csproj",
               "RelativeToolTip": "Test\\E ventBusTest\\EventBusTest.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T18:52:33.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T18:52:33.154Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Test\\E ventBusTest\\Events\\EventHandlers\\OrderCreatedIntegrationEventHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:51:11.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T18:51:11.538Z"
             }
           ]
         }
