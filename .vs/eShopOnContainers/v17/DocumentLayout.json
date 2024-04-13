@@ -1,85 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\test\\e ventbustest\\eventbustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|solutionrelative:test\\e ventbustest\\eventbustests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\test\\e ventbustest\\events\\events\\ordercreatedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|solutionrelative:test\\e ventbustest\\events\\events\\ordercreatedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\test\\e ventbustest\\events\\eventhandlers\\ordercreatedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|solutionrelative:test\\e ventbustest\\events\\eventhandlers\\ordercreatedintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|c:\\users\\onurc\\source\\repos\\eshoponcontainers\\test\\e ventbustest\\eventbustest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}|Test\\E ventBusTest\\EventBusTest.csproj|solutionrelative:test\\e ventbustest\\eventbustest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventBusTests.cs",
-              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\EventBusTests.cs",
-              "RelativeDocumentMoniker": "Test\\E ventBusTest\\EventBusTests.cs",
-              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\EventBusTests.cs",
-              "RelativeToolTip": "Test\\E ventBusTest\\EventBusTests.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAAAG0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:49:53.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderCreatedIntegrationEvent.cs",
-              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\Events\\Events\\OrderCreatedIntegrationEvent.cs",
-              "RelativeDocumentMoniker": "Test\\E ventBusTest\\Events\\Events\\OrderCreatedIntegrationEvent.cs",
-              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\Events\\Events\\OrderCreatedIntegrationEvent.cs",
-              "RelativeToolTip": "Test\\E ventBusTest\\Events\\Events\\OrderCreatedIntegrationEvent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:52:48.022Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventBusTest.csproj",
-              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\EventBusTest.csproj",
-              "RelativeDocumentMoniker": "Test\\E ventBusTest\\EventBusTest.csproj",
-              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\EventBusTest.csproj",
-              "RelativeToolTip": "Test\\E ventBusTest\\EventBusTest.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-11T18:52:33.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderCreatedIntegrationEventHandler.cs",
-              "DocumentMoniker": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\Events\\EventHandlers\\OrderCreatedIntegrationEventHandler.cs",
-              "RelativeDocumentMoniker": "Test\\E ventBusTest\\Events\\EventHandlers\\OrderCreatedIntegrationEventHandler.cs",
-              "ToolTip": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\Test\\E ventBusTest\\Events\\EventHandlers\\OrderCreatedIntegrationEventHandler.cs",
-              "RelativeToolTip": "Test\\E ventBusTest\\Events\\EventHandlers\\OrderCreatedIntegrationEventHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:51:11.538Z"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
