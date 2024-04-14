@@ -68,7 +68,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{5B287754-3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBusTest", "Test\E ventBusTest\EventBusTest.csproj", "{902B73F0-AEA1-4A32-90D6-C5A6774DD2A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatologServiceAPI", "src\Services\CatalogService\CatalogService\CatologServiceAPI\CatologServiceAPI.csproj", "{ACF6992F-65CF-4C4E-95B5-6C0F2127D91C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatologServiceAPI", "src\Services\CatalogService\CatalogService\CatologServiceAPI\CatologServiceAPI.csproj", "{ACF6992F-65CF-4C4E-95B5-6C0F2127D91C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,14 +4,96 @@
     "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj": {
+    "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
-        "projectName": "PaymentService.Api",
-        "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+        "projectUniqueName": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+        "projectName": "EventBus.AzureServiceBus",
+        "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
         "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\obj\\",
+        "outputPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[1.0.5814.23201, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "projectName": "EventBus.Base",
+        "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,9 +127,252 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+        "projectName": "EventBus.Factory",
+        "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
+                "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj"
+              },
+              "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              },
+              "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+                "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectName": "EventBus.RabbitMQ",
+        "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.3.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+        "projectName": "PaymentService.Api",
+        "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\PaymentService.Api.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\PaymentService\\PaymentService.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              },
+              "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
+                "projectPath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\BuildingDlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.15, )"
+              "version": "[7.0.18, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

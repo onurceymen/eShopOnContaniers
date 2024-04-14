@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mJFkBR0GCEBBUZ743d422F4fXCqNkps7fYAX53kRB7O1YIP1h7WWsCCGyHajdnZJdbrV0t2ksJtpdwzzWV9dwg==",
+  "dgSpecHash": "KXA3/rQJH9RlRs3ifqoVuhOkqKl/Of5vbABTfuNVnCsZ8bNqjM5xMfFMES1+cHTtO71sA3N4qBjkHNncmrxguA==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\CatalogService\\CatalogService\\CatologServiceAPI\\CatologServiceAPI.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\onurc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\consul\\1.7.14.3\\consul.1.7.14.3.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
-    "C:\\Users\\onurc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",
+    "C:\\Users\\onurc\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.18\\microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.0\\microsoft.bcl.timeprovider.8.0.0.nupkg.sha512",
     "C:\\Users\\onurc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

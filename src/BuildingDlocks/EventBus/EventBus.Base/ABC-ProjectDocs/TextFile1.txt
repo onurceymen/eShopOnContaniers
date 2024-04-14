@@ -1,0 +1,33 @@
+﻿Bu class library, bir Event Bus uygulaması için yapılandırılmış ve genel bir etkinlik (event) yönetim sistemi kurmak için kullanılır. Event Bus, yazılım bileşenleri arasında düşük bağlantılı (loosely coupled) ve etkin bir iletişim sağlar. Etkinlikler, sistemdeki bir olayın gerçekleştiğini diğer bileşenlere duyurmak için kullanılır. Şimdi size bu class library içindeki temel sınıfları ve arayüzleri açıklayacağım:
+
+1. IEventBus Arayüzü
+Bu arayüz, etkinliklerin (events) yayınlanması, aboneliklerin yönetilmesi ve abonelikten çıkılmasını yöneten metodları tanımlar:
+
+Publish: Bir etkinlik yayınlar.
+Subscribe: Belirli bir etkinlik türü için bir olay işleyici (event handler) aboneliği ekler.
+UnSubscribe: Belirli bir etkinlik türü için olay işleyici aboneliğini kaldırır.
+2. IEventBusSubscriptionManager Arayüzü
+Bu arayüz, etkinlik aboneliklerinin yönetimini sağlar. Hangi etkinliklerin hangi işleyicilere (handlers) abone olduğunu takip eder:
+
+AddSubscription ve RemoveSubscription: Etkinlikler için işleyici abonelikleri ekler veya kaldırır.
+HasSubscriptionsForEvent: Belirli bir etkinlik için abonelik olup olmadığını kontrol eder.
+GetHandlersForEvent: Belirli bir etkinlik için tüm işleyicileri döndürür.
+3. IIntegrationEventHandler<TIntegrationEvent>
+Bu genel arayüz, etkinlik işleyicileri için bir sözleşme tanımlar. Handle metodu, belirli bir etkinlik türü işlendiğinde çağrılır.
+
+4. BaseEventBus
+Bu soyut sınıf, IEventBus ve IDisposable arayüzlerini uygular. Etkinlik yayınlama ve abonelik yönetimi için temel işlevselliği sağlar. Ayrıca, bağımlılık enjeksiyonu (dependency injection) için bir hizmet sağlayıcıya (service provider) erişim sağlar.
+
+5. IntegrationEvent
+Bu sınıf, bir etkinliği temsil eder. Her etkinlik benzersiz bir Id ve CreatedDate içerir.
+
+6. InMemoryEventBusSubscriptionManager
+Bu sınıf, IEventBusSubscriptionManager arayüzünü uygular ve etkinlik aboneliklerini hafızada tutar. Etkinlikler ve bunların işleyicileri arasındaki ilişkileri yönetir.
+
+7. EventBusConfig
+Bu sınıf, Event Bus yapılandırmasını tanımlar. Bağlantı dizesi, yeniden bağlantı deneme sayısı, ve kullanılacak Event Bus tipi gibi ayarları içerir.
+
+8. SubscriptionInfo
+Bu sınıf, bir etkinlik işleyicisinin tür bilgisini saklar ve bu türde bir abonelik oluşturmak için kullanılır.
+
+Bu yapı, genellikle mikroservisler arasında olay tabanlı iletişimi kolaylaştırmak, sistemler arası etkileşimi düzenlemek ve bağlantıları azaltmak için kullanılır. Her bir bileşen, diğer bileşenlerle doğrudan iletişime girmeden olayları yayabilir veya olayları dinleyebilir. Bu, sistemlerin daha modüler ve kolay yönetilir olmasını sağlar.
