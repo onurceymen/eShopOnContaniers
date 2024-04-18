@@ -1,69 +1,93 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Configuration;
 using Serilog;
-using Serilog.Events;
-using System;
+using System.IO;
+using Microsoft.OpenApi.Models;
+using RabbitMQ.Client;
 using EventBus.Base;
 using EventBus.Base.Abstraction;
 using EventBus.Factory;
 using PaymentService.Api.IntegrationEvents.EventHandlers;
 using PaymentService.Api.IntegrationEvents.Events;
-using RabbitMQ.Client;
+using Microsoft.AspNetCore.HttpsPolicy;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Serilog yapýlandýrmasý
-var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT") ?? "Production";
-builder.Host.UseSerilog((ctx, lc) => lc
-    .ReadFrom.Configuration(ctx.Configuration)
-    .MinimumLevel.Override("Microsoft", LogEventLevel.Information)
-    .Enrich.FromLogContext());
+// Environment configuration
+string env = builder.Environment.EnvironmentName;
 
-// Servislerin eklenmesi
+// Configuration setup
+builder.Configuration
+    .SetBasePath(Directory.GetCurrentDirectory())
+    .AddJsonFile("Configurations/appsettings.json", optional: false)
+    .AddJsonFile($"Configurations/appsettings.{env}.json", optional: true)
+    .AddEnvironmentVariables();
+
+// Serilog Configuration
+var serilogConfiguration = new ConfigurationBuilder()
+    .SetBasePath(Directory.GetCurrentDirectory())
+    .AddJsonFile("Configurations/serilog.json", optional: false)
+    .AddJsonFile($"Configurations/serilog.{env}.json", optional: true)
+    .AddEnvironmentVariables()
+    .Build();
+
+Log.Logger = new LoggerConfiguration()
+    .ReadFrom.Configuration(serilogConfiguration)
+    .CreateLogger();
+
+builder.Host.UseSerilog();
+
+
+builder.Services.AddLogging(configure =>
+{
+    configure.AddConsole();
+    configure.AddDebug();
+});
+// Add services to the container.
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen(c =>
 {
-    c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Title = "PaymentService.Api", Version = "v1" });
+    c.SwaggerDoc("v1", new OpenApiInfo { Title = "PaymentService.Api", Version = "v1" });
 });
 builder.Services.AddTransient<OrderStartedIntegrationEventHandler>();
 builder.Services.AddSingleton<IEventBus>(sp =>
 {
-    var eventBusConfig = new EventBusConfig
+    var config = new EventBusConfig
     {
         ConnectionRetryCount = 5,
         EventNameSuffix = "IntegrationEvent",
         SubscriberClientAppName = "PaymentService",
         EventBusType = EventBusType.RabbitMQ,
-        Connection = new ConnectionFactory
+        Connection = new ConnectionFactory()
         {
             HostName = "localhost",
-            Port = 5672, // Not 15672, that's the management port
+            Port = 15672,
             UserName = "guest",
             Password = "guest"
         }
     };
-    return EventBusFactory.Create(eventBusConfig, sp);
+
+    return EventBusFactory.Create(config, sp);
 });
 
 var app = builder.Build();
 
-// HTTP istek iþleyicilerinin yapýlandýrýlmasý
+// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
     app.UseSwagger();
     app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "PaymentService.Api v1"));
 }
+
 app.UseHttpsRedirection();
 app.UseRouting();
 app.UseAuthorization();
-
 app.MapControllers();
 
-// EventBus aboneliklerinin yapýlandýrýlmasý
-var eventBus = app.Services.GetRequiredService<IEventBus>();
+IEventBus eventBus = app.Services.GetRequiredService<IEventBus>();
 eventBus.Subscribe<OrderStartedIntegrationEvent, OrderStartedIntegrationEventHandler>();
 
 app.Run();

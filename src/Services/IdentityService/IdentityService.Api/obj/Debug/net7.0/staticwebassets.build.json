@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "DV8Ar+/lLUze2MCaelP0huY4MTzVIStKBe5uwLeein0=",
+  "Hash": "5o5psbT2O+F0vtAtgcmPFcmktY1f8urYYeF6i8HqDUg=",
   "Source": "IdentityService.Api",
   "BasePath": "_content/IdentityService.Api",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\onurc\\source\\repos\\eShopOnContainers\\src\\Services\\CatalogService\\CatalogService\\CatologServiceAPI\\CatologServiceAPI.csproj",
+      "Version": 2,
+      "Source": "CatologServiceAPI",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [],
   "Assets": []
 }

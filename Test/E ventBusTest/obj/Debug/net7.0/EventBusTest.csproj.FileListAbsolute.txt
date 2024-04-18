@@ -15,8 +15,6 @@ C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\EventBusTest.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\EventBusTest.pdb
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Azure.ServiceBus.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Azure.Services.AppAuthentication.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Bcl.TimeProvider.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -32,11 +30,6 @@ C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -50,7 +43,6 @@ C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Polly.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Polly.Core.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\RabbitMQ.Client.dll
-C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\xunit.abstractions.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\xunit.assert.dll
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\xunit.core.dll
@@ -149,3 +141,16 @@ C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\obj\Debug\net7.
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\obj\Debug\net7.0\EventBusTest.pdb
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\obj\Debug\net7.0\EventBusTest.genruntimeconfig.cache
 C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\obj\Debug\net7.0\ref\EventBusTest.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Azure.Core.Amqp.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Azure.Messaging.ServiceBus.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\System.ClientModel.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Azure.ServiceBus.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\onurc\source\repos\eShopOnContainers\Test\E ventBusTest\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll

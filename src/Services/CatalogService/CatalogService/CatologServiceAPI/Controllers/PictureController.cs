@@ -19,9 +19,9 @@ namespace CatologServiceAPI.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> Get()
+        public Task<IActionResult> Get()
         {
-            return Ok("App and Running");
+            return Task.FromResult<IActionResult>(Ok("App and Running"));
         }
 
         [HttpGet]
